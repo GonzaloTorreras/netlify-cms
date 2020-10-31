@@ -1,7 +1,7 @@
 backend:
     name: github
     repo: gonzalotorreras/netlify-cms # Path to your GitHub repository
-    branch: gh-pages
+#   branch: gh-pages
 # https://www.netlifycms.org/docs/configuration-options/#publish-mode
 publish_mode: editorial_workflow
 media_folder: "images" # Media files will be stored in the repo under images/
